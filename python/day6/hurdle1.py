@@ -1,8 +1,9 @@
+# Author: Ifedayo
 def turn_right():
     turn_left()
     turn_left()
     turn_left()
-    
+
 def jump():
     move()
     turn_left()
