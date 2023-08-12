@@ -31,7 +31,4 @@ pip install requests twilio
 
 This program demonstrates using APIs to monitor stock prices and fetch news articles. It can be extended and customized for various purposes.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
